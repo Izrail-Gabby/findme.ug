@@ -1,0 +1,26 @@
+{
+  "name": "findme-ug-backend",
+  "version": "1.0.0",
+  "description": "FindMe.ug backend – Kampala MVP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["uganda", "fundi", "marketplace", "kampala"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.7.0",
+    "dotenv": "^16.4.5",
+    "cors": "^2.8.5",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "flutterwave-node-v3": "^1.0.9",
+    "africastalking": "^0.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
