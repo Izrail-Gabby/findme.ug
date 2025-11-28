@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://findme-ug-backend.onrender.com/api', // ← we’ll create this in 5 min
+  baseURL: 'https://findme-ug.onrender.com', // ← we’ll create this in 5 min
   // fallback for local testing
   // baseURL: 'http://localhost:5000/api',
 });
