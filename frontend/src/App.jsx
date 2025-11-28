@@ -5,9 +5,9 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-green-600 to-yellow-400">
       {/* Hero Section */}
       <div className="container mx-auto px-4 pt-20 text-center">
-        <h1 className="text-5xl md:text-7xl font-black text-white mb-4 drop-shadow-lg">
-          FindMe.ug
-        </h1>
+       <h1 className="text-5xl md:text-7xl font-black text-white mb-4 drop-shadow-2xl animate-pulse">
+  FindMe.ug 🇺🇬
+</h1>
         <p className="text-xl md:text-3xl text-white font-bold mb-8 drop-shadow">
           Your trusted fundi is just one click away
         </p>
