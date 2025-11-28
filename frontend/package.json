@@ -1,4 +1,6 @@
 {
+  "leaflet": "^1.9.4",
+"react-leaflet": "^4.2.1"
   "name": "findme-ug",
   "version": "1.0.0",
   "private": true,
