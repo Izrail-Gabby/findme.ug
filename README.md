@@ -25,5 +25,5 @@ MVP under active development – 8-week launch plan
 Fully funded runway: [to be updated]
 
 ### Contact
-your-email@gmail.com | +256 7XX XXX XXX  
+araaliisrael@gmail.com | +256 7XX XXX XXX  
 Made with ❤️ in Kampala, Uganda
